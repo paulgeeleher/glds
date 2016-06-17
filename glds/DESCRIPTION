@@ -1,0 +1,11 @@
+Package: glds
+Type: Package
+Title: Estimate and control for general-levels-of-drug sensitivity in large preclinical pharmacogenomics datasets.
+Version: 0.5
+Date: 2014-03-07
+Author: Paul Geeleher
+Maintainer: Paul Geeleher <paulgeeleher@gmail.com>
+Description: Estimate and control for general-levels-of-drug sensitivity in large preclinical pharmacogenomics datasets.
+Imports:
+    glmnet
+License: GPL-2
